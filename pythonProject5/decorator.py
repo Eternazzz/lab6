@@ -1,5 +1,3 @@
-
-
 class Transport:
     def __str__(self):
         return 'Transport created'
